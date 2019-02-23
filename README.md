@@ -7,3 +7,7 @@ Just start the app in "Debug Mode" inside Visual Studio to use the sipmle GUI as
 Important Note:  
 ClientNimbus creates new signals from an *.zip folder* of this project.
 Please make sure that you replace this zip file with yours to make your modification available inside ClientNimbus.
+
+Important Note:  
+Please make **Backtest.dll , CommonObjects.dll , UserCode.dll** from Servicenimbus available.  
+Normally they are downloaded automatically during first successfull ClientNimbus connection.
