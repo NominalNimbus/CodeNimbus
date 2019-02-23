@@ -11,3 +11,8 @@ Please make sure that you replace this zip file with yours to make your modifica
 Important Note:  
 Please make **Backtest.dll , CommonObjects.dll , UserCode.dll** from Servicenimbus available.  
 Normally they are downloaded automatically during first successfull ClientNimbus connection.
+.  
+.  
+### Donation to keep this up and running:
+IOTA: FKD9BYAHVBMDDW9DQBBTOFJEHFWZNTYB9UBHPBMABACHFMGGQIBVBLLDLEWYXOGAGGVZVCPVVXHUFTJU9YGNADFNGW
+ETH:  0x88920B317625fDfe27A8a2353A1173D3097083D2
