@@ -1,3 +1,22 @@
+  
+########################################################################  
+ This project is subject to the terms of the Mozilla Public  
+ License, v. 2.0. If a copy of the MPL was not distributed with this  
+ file, You can obtain one at http://mozilla.org/MPL/2.0/  
+ Any copyright is dedicated to the NominalNimbus.  
+ https://github.com/NominalNimbus  
+########################################################################
+  
+**_NominalNimbus_ project is a client <=> server Trading Platform with stron focus on Algorithmic Trading with build in features like:**  
+**+ .net Scripting Library on client side**
+**+ Server Side headless deployment of trading algos**
+**+ Backtesting Engine**  
+**+ Marging Broker Simulation**  
+**+ Non Marging Broker Simulation**  
+**+ LMAX API for Demo & Live Trading**  
+**+ Poloniex API for Live Trading**  
+  
+  
 # CodeNimbus
 .net User Code environment with integrated debuging to create and debug custom Signals.  
 This is the entire scripting engine for creating trading rules (Signals) or any possible dataevaluation scropts or Portfolio watch dogs... 
