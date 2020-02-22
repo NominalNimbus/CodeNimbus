@@ -7,7 +7,7 @@
  https://github.com/NominalNimbus  
 ########################################################################
   
-**_NominalNimbus_ project is a client <=> server Trading Platform with stron focus on Algorithmic Trading with build in features like:**  
+**_NominalNimbus_ project is a [client <=> server] based Trading Platform with strong focus on Algorithmic Trading with build in features like:**  
 **+ .net Scripting Library on client side**  
 **+ Server Side headless deployment of trading algos**  
 **+ Backtesting Engine**  
@@ -19,8 +19,8 @@
   
   
 # CodeNimbus
-.net User Code environment with integrated debuging to create and debug custom Signals.  
-This is the entire scripting engine for creating trading rules (Signals) or any possible dataevaluation scropts or Portfolio watch dogs... 
+.net User Code library environment with integrated signal mock up for easy debuging to create and debug custom Signals.  
+This is the scripting engine for creating trading rules (Signals) or any possible dataevaluation scropts or Portfolio watch dogs... 
 It contains a Service and Client mockup to make it possible to debug custom code as it would run in production environment.  
 Just start the app in "Debug Mode" inside Visual Studio to use the sipmle GUI as data input mochup to cal you break points...
 
